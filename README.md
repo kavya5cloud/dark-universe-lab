@@ -39,3 +39,24 @@ Goals:
 ⬜ Diffusion Priors
 
 ⬜ CVPR 2026 Reproduction
+
+# Milestone 1: Cosmology Foundations
+
+- [x] Gaussian Random Fields
+- [x] Weak Lensing Simulator
+- [ ] Mass Map Reconstruction
+- [ ] CNN Reconstruction
+- [ ] U-Net Reconstruction
+
+# Milestone 2: Scientific Machine Learning
+
+- [ ] Diffusion Models
+- [ ] Bayesian Inference
+- [ ] Probabilistic Reconstruction
+
+# Milestone 3: Paper Reproduction
+
+- [ ] Reproduce Figure 1
+- [ ] Reproduce Figure 2
+- [ ] Reproduce Baseline Results
+- [ ] Reproduce Diffusion Prior Results
