@@ -30,7 +30,7 @@ Goals:
 
 ✅ Weak Lensing Simulator
 
-⬜ Mass Map Reconstruction
+✅ Mass Map Reconstruction
 
 ⬜ CNN Reconstruction
 
@@ -44,7 +44,7 @@ Goals:
 
 - [x] Gaussian Random Fields
 - [x] Weak Lensing Simulator
-- [ ] Mass Map Reconstruction
+- [x] Mass Map Reconstruction
 - [ ] CNN Reconstruction
 - [ ] U-Net Reconstruction
 
