@@ -23,3 +23,19 @@ Goals:
 - U-Net reconstruction
 - Diffusion prior reconstruction
 - Reproduction of CVPR 2026 dark universe mapping paper
+
+## Roadmap
+
+✅ Gaussian Random Fields
+
+✅ Weak Lensing Simulator
+
+⬜ Mass Map Reconstruction
+
+⬜ CNN Reconstruction
+
+⬜ U-Net Reconstruction
+
+⬜ Diffusion Priors
+
+⬜ CVPR 2026 Reproduction
